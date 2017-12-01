@@ -1,0 +1,17 @@
+.footer {
+  width: 100%;
+  min-height: 8vh;
+  background-color: #572e35;
+}
+
+.cnt {
+  text-align: center;
+  font-weight: 600;
+  color: white;
+}
+
+.icon {
+  color: white;
+  text-align: center;
+  padding-left: 5em;
+}
